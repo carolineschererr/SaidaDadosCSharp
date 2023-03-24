@@ -1,0 +1,15 @@
+C:\temp\csharp\ExerciciosSaidaDados\bin\Debug\net6.0\ExerciciosSaidaDados.exe
+C:\temp\csharp\ExerciciosSaidaDados\bin\Debug\net6.0\ExerciciosSaidaDados.deps.json
+C:\temp\csharp\ExerciciosSaidaDados\bin\Debug\net6.0\ExerciciosSaidaDados.runtimeconfig.json
+C:\temp\csharp\ExerciciosSaidaDados\bin\Debug\net6.0\ExerciciosSaidaDados.dll
+C:\temp\csharp\ExerciciosSaidaDados\bin\Debug\net6.0\ExerciciosSaidaDados.pdb
+C:\temp\csharp\ExerciciosSaidaDados\obj\Debug\net6.0\ExerciciosSaidaDados.csproj.AssemblyReference.cache
+C:\temp\csharp\ExerciciosSaidaDados\obj\Debug\net6.0\ExerciciosSaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\csharp\ExerciciosSaidaDados\obj\Debug\net6.0\ExerciciosSaidaDados.AssemblyInfoInputs.cache
+C:\temp\csharp\ExerciciosSaidaDados\obj\Debug\net6.0\ExerciciosSaidaDados.AssemblyInfo.cs
+C:\temp\csharp\ExerciciosSaidaDados\obj\Debug\net6.0\ExerciciosSaidaDados.csproj.CoreCompileInputs.cache
+C:\temp\csharp\ExerciciosSaidaDados\obj\Debug\net6.0\ExerciciosSaidaDados.dll
+C:\temp\csharp\ExerciciosSaidaDados\obj\Debug\net6.0\refint\ExerciciosSaidaDados.dll
+C:\temp\csharp\ExerciciosSaidaDados\obj\Debug\net6.0\ExerciciosSaidaDados.pdb
+C:\temp\csharp\ExerciciosSaidaDados\obj\Debug\net6.0\ExerciciosSaidaDados.genruntimeconfig.cache
+C:\temp\csharp\ExerciciosSaidaDados\obj\Debug\net6.0\ref\ExerciciosSaidaDados.dll
